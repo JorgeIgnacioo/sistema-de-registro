@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ´´´´apm instal now´´´´
+
+sistema de registro
